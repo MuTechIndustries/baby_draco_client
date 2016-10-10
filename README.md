@@ -11,7 +11,8 @@ The library that acomplishes the scope of this project
 Uses assert and dogs to test client domain
 ## Todo
 1. Finish where
+  1. on_success is not called correctly and the if exist statement is incorect ( see upwork_demo for edit )
 2. Refine assert to handle asyncranis respones better
 3. Refine library
 4. Finish DRACO
-5. Create DRACO client 
+5. Create DRACO client
